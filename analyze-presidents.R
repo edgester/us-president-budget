@@ -1,8 +1,8 @@
 #!/usr/bin/env Rscript
 
 # an analysis of the US budget outlays grouped by presidents
-# written by Jason Edgecombe
-# license: BSD (2 clause)
+# written by Jason W. Edgecombe
+# license: CC-BY
 
 # US budget downloaded from (convert from XLS to CSV):
 # http://www.whitehouse.gov/sites/default/files/omb/budget/fy2013/assets/hist01z3.xls
